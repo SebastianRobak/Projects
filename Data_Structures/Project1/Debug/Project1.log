@@ -1,0 +1,4 @@
+﻿  Project1.cpp
+C:\Users\sebas\source\repos\Pamsi-Robak\Project1\Project1\Stack.h(6,1): warning C4005: 'SIZE': macro redefinition
+C:\Users\sebas\source\repos\Pamsi-Robak\Project1\Project1\Queue.h(6): message : see previous definition of 'SIZE'
+  Project1.vcxproj -> C:\Users\sebas\source\repos\Pamsi-Robak\Project1\Debug\Project1.exe

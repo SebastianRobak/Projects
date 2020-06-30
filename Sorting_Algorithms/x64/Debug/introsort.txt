@@ -1,0 +1,50 @@
+Sortowanie introspektywne
+Sredni czas sortowania dla tablicy o rozmiarze 10000
+Dla 0% posortowania: 2.60547 milliseconds
+Dla 25% posortowania: 2.46131 milliseconds
+Dla 50% posortowania: 2.20362 milliseconds
+Dla 75% posortowania: 2.08843 milliseconds
+Dla 95% posortowania: 2.07619 milliseconds
+Dla 99% posortowania: 1.8808 milliseconds
+Dla 99.7% posortowania: 1.89054 milliseconds
+Dla 100% posortowania: 1.9142 milliseconds
+
+Sredni czas sortowania dla tablicy o rozmiarze 50000
+Dla 0% posortowania: 16.24554 milliseconds
+Dla 25% posortowania: 14.40123 milliseconds
+Dla 50% posortowania: 13.26365 milliseconds
+Dla 75% posortowania: 12.2988 milliseconds
+Dla 95% posortowania: 12.5511 milliseconds
+Dla 99% posortowania: 12.8936 milliseconds
+Dla 99.7% posortowania: 11.1245 milliseconds
+Dla 100% posortowania: 11.9287 milliseconds
+
+Sredni czas sortowania dla tablicy o rozmiarze 100000
+Dla 0% posortowania: 33.5923 milliseconds
+Dla 25% posortowania: 28.3674 milliseconds
+Dla 50% posortowania: 26.82363 milliseconds
+Dla 75% posortowania: 25.30885 milliseconds
+Dla 95% posortowania: 25.3419 milliseconds
+Dla 99% posortowania: 25.62059 milliseconds
+Dla 99.7% posortowania: 22.681 milliseconds
+Dla 100% posortowania: 26.8191 milliseconds
+
+Sredni czas sortowania dla tablicy o rozmiarze 500000
+Dla 0% posortowania: 165.1551 milliseconds
+Dla 25% posortowania: 158.0091 milliseconds
+Dla 50% posortowania: 153.964 milliseconds
+Dla 75% posortowania: 159.8253 milliseconds
+Dla 95% posortowania: 192.3623 milliseconds
+Dla 99% posortowania: 214.2156 milliseconds
+Dla 99.7% posortowania: 213.551 milliseconds
+Dla 100% posortowania: 326.64 milliseconds
+
+Sredni czas sortowania dla tablicy o rozmiarze 1000000
+Dla 0% posortowania: 385.23 milliseconds
+Dla 25% posortowania: 371.29 milliseconds
+Dla 50% posortowania: 363.15 milliseconds
+Dla 75% posortowania: 379.63 milliseconds
+Dla 95% posortowania: 528.03 milliseconds
+Dla 99% posortowania: 624.33 milliseconds
+Dla 99.7% posortowania: 629.01 milliseconds
+Dla 100% posortowania: 953.56 milliseconds

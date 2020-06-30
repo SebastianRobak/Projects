@@ -1,0 +1,50 @@
+Sortowanie szybkie
+Sredni czas sortowania dla tablicy o rozmiarze 10000
+Dla 0% posortowania: 7.87481 milliseconds
+Dla 25% posortowania: 8.9523 milliseconds
+Dla 50% posortowania: 8.4213 milliseconds
+Dla 75% posortowania: 8.3412 milliseconds
+Dla 95% posortowania: 8.2317 milliseconds
+Dla 99% posortowania: 8.1062 milliseconds
+Dla 99.7% posortowania: 8.3012 milliseconds
+Dla 100% posortowania: 8.0974 milliseconds
+
+Sredni czas sortowania dla tablicy o rozmiarze 50000
+Dla 0% posortowania: 89.3123 milliseconds
+Dla 25% posortowania: 79.5521 milliseconds
+Dla 50% posortowania: 68.451264 milliseconds
+Dla 75% posortowania: 60.37193 milliseconds
+Dla 95% posortowania: 56.9572 milliseconds
+Dla 99% posortowania: 53.8472 milliseconds
+Dla 99.7% posortowania: 51.5911 milliseconds
+Dla 100% posortowania: 47.0292 milliseconds
+
+Sredni czas sortowania dla tablicy o rozmiarze 100000
+Dla 0% posortowania: 197.093 milliseconds
+Dla 25% posortowania: 178.9189 milliseconds
+Dla 50% posortowania: 158.1972 milliseconds
+Dla 75% posortowania: 143.0973 milliseconds
+Dla 95% posortowania: 126.3216 milliseconds
+Dla 99% posortowania: 119.0932 milliseconds
+Dla 99.7% posortowania: 115.6721 milliseconds
+Dla 100% posortowania: 109.5213 milliseconds
+
+Sredni czas sortowania dla tablicy o rozmiarze 500000
+Dla 0% posortowania: 1023.9821 milliseconds
+Dla 25% posortowania: 934.312 milliseconds
+Dla 50% posortowania: 823.3081 milliseconds
+Dla 75% posortowania: 703.91 milliseconds
+Dla 95% posortowania: 643.16 milliseconds
+Dla 99% posortowania: 621.18 milliseconds
+Dla 99.7% posortowania: 607.81 milliseconds
+Dla 100% posortowania: 590.61 milliseconds
+
+Sredni czas sortowania dla tablicy o rozmiarze 1000000
+Dla 0% posortowania: 2067.93 milliseconds
+Dla 25% posortowania: 1894.62 milliseconds
+Dla 50% posortowania: 1667.18 milliseconds
+Dla 75% posortowania: 1445.84 milliseconds
+Dla 95% posortowania: 1287.39 milliseconds
+Dla 99% posortowania: 1198.65 milliseconds
+Dla 99.7% posortowania: 1179.92 milliseconds
+Dla 100% posortowania: 1156.61 milliseconds
