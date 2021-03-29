@@ -1,7 +1,5 @@
 # Main
-==========
     Sebastian Robak's Projects
-===========
 
 This repositorie contains different projects. 
 
